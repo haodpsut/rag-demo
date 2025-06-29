@@ -1,0 +1,6 @@
+{
+  "name": "DriveRAG: Chat with your Google Drive Documents",
+  "description": "A React application that uses the Gemini API to let you chat with the content of your Google Drive files. Securely connect your Google account, select documents, and ask questions.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
